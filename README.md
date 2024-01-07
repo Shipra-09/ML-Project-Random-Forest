@@ -42,7 +42,7 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
 
 
   4. Modelling of data:
-     * import DecisionTreeClassifier and initialize it
+     * import RandomForestClassifier and initialize it
      * fit the model
      * predict the model
 

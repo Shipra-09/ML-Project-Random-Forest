@@ -61,16 +61,16 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
   *File name: Company-Sales-data files*
   
   #### EDA Inferences:
-  * There are total 198 and 182 Females and Males, respectively.
-  * Out of 198 females, 77 has purchased Iphones while out of 182 males, 63 has purchased Iphones.
-  * Females have purchased more Iphones compared to males.
-  * Genders with more salary are likely to purchase Iphones.
-  * Females have more salaries and hence purchased more Iphones than males.
-  * Genders with high salaries in 27-45 years of age have purchased Iphones.
-  * Genders having age group above 45 years purchased Iphones irrespective of their salaries.
+  * There are total sales of **2942.97** (in thousands).
+  * Total sale in US stores is **1986.815**.
+  * Total sales in urban areas is **2064.74**.
+  * Total sales in US urban area is **1402.05**.
+  * Bad, medium and good shelve quality places have **529.815,1591.15 and 822.005** sales: 
+  * Medium quality shelving location as more sales followed by good and bad quality.
+  * Least sales are observed in case .**of bad shelving location.
   * The data is normally distributed in all the cases.
-  * The skewness is calculted to be 0.21, 0.40, 0.05, 0.64, 0.05, 0.44, 0.08 and 0.04 for sales, compprice, income, advertising, population, price, age and education, respectively.
-  * The correlation of age and salary with the Iphone purchase is 62 and 38%, repectively.
+  * The skewness is calculted to be **0.21, 0.40, 0.05, 0.64, 0.05, 0.44, 0.08 and 0.04** for sales, compprice, income, advertising, population, price, age and education, respectively.
+  * The correlation of age and salary with the Iphone purchase is **62 and 38%**, repectively.
   * There are outliers present in the features named Sales, compPrice and price.
 
 
@@ -95,7 +95,7 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
   * There are large number of married (**45**) individuals who have risk status, followed by single(**43**) and divorced(**36**).
   * Graduation status (Undergrad) and location (Urban) does not give any impactful data on the tax criteria i.e good and risky status.
   * The data is normally distributed in all the features.
-  * The skewness is calculted to be 0.03, 0.13 and 0.02 for taxable income, city population and work experience, respectively.
+  * The skewness is calculted to be **0.03, 0.13 and 0.02** for taxable income, city population and work experience, respectively.
   * There are no outliers present in the dataset
 
 
